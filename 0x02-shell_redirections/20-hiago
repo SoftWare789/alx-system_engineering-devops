@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, how are you?" | tr -d ‘cC’
+tr -d ‘cC’
